@@ -5,7 +5,7 @@
 
 namespace Bootstrapper;
 
-use Illuminate\Html\FormBuilder;
+use Collective\Html\FormBuilder;
 
 /**
  * Creates Bootstrap 3 compliant forms
@@ -236,7 +236,7 @@ class Form extends FormBuilder
      * @param array $attributes
      * @return string
      * @see Bootstrapper\Form::horizontal()
-     * @see Illuminate\Html::model()
+     * @see Collective\Html::model()
      */
     public function horizontalModel($model, $attributes = [])
     {
@@ -254,7 +254,7 @@ class Form extends FormBuilder
      * @param array $attributes
      * @return string
      * @see Bootstrapper\Form::inline()
-     * @see Illuminate\Html::model()
+     * @see Collective\Html::model()
      */
     public function inlineModel($model, $attributes = [])
     {

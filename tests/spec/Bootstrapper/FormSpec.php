@@ -2,7 +2,7 @@
 
 namespace spec\Bootstrapper;
 
-use Illuminate\Html\HtmlBuilder;
+use Collective\Html\HtmlBuilder;
 use Mockery;
 use PhpSpec\ObjectBehavior;
 use Prophecy\Argument;
@@ -22,7 +22,7 @@ class FormSpec extends ObjectBehavior
     {
         $this->shouldHaveType('Bootstrapper\Form');
         // Since it should extend...
-        $this->shouldHaveType('Illuminate\Html\FormBuilder');
+        $this->shouldHaveType('Collective\Html\FormBuilder');
     }
 
     /**

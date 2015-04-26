@@ -414,10 +414,10 @@
 <!-- \\Illuminate\\Html\\FormBuilder -->
 <g id="node62" class="node"><title>\\Illuminate\\Html\\FormBuilder</title>
 <ellipse fill="none" stroke="black" cx="495.762" cy="-72" rx="116.18" ry="18"/>
-<text text-anchor="middle" x="495.762" y="-68.3" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Html\FormBuilder</text>
+<text text-anchor="middle" x="495.762" y="-68.3" font-family="Times,serif" font-size="14.00" fill="gray">\Collective\Html\FormBuilder</text>
 </g>
 <!-- \\Bootstrapper\\Form&#45;&gt;\\Illuminate\\Html\\FormBuilder -->
-<g id="edge8" class="edge"><title>\\Bootstrapper\\Form&#45;&gt;\\Illuminate\\Html\\FormBuilder</title>
+<g id="edge8" class="edge"><title>\\Bootstrapper\\Form&#45;&gt;\\Collective\\Html\\FormBuilder</title>
 <path fill="none" stroke="black" d="M780.286,-292.933C758.574,-290.739 728.203,-284.472 708.15,-267 646.902,-213.635 699.386,-149.993 636.15,-99 628.235,-92.6175 619.252,-87.5909 609.75,-83.6488"/>
 <polygon fill="none" stroke="black" points="610.688,-80.2637 600.096,-80.0583 608.248,-86.8247 610.688,-80.2637"/>
 </g>

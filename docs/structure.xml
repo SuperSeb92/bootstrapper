@@ -1236,9 +1236,9 @@ it catches it and displays an error message</description>
       <long-description></long-description>
       <tag name="package" line="0" description="Default"/>
     </docblock>
-    <namespace-alias name="FormBuilder">\Illuminate\Html\FormBuilder</namespace-alias>
+    <namespace-alias name="FormBuilder">\Collective\Html\FormBuilder</namespace-alias>
     <class final="false" abstract="false" namespace="Bootstrapper" line="12" package="Bootstrapper">
-      <extends>\Illuminate\Html\FormBuilder</extends>
+      <extends>\Collective\Html\FormBuilder</extends>
       <name>Form</name>
       <full_name>\Bootstrapper\Form</full_name>
       <docblock line="12">
@@ -1657,7 +1657,7 @@ it catches it and displays an error message</description>
             <type>string</type>
           </tag>
           <tag name="see" line="237" description="" link="\Bootstrapper\Bootstrapper\Form::horizontal()"/>
-          <tag name="see" line="237" description="" link="\Bootstrapper\Illuminate\Html::model()"/>
+          <tag name="see" line="237" description="" link="\Bootstrapper\Collective\Html::model()"/>
         </docblock>
         <argument line="0" by_reference="false">
           <name>$model</name>
@@ -1686,7 +1686,7 @@ it catches it and displays an error message</description>
             <type>string</type>
           </tag>
           <tag name="see" line="255" description="" link="\Bootstrapper\Bootstrapper\Form::inline()"/>
-          <tag name="see" line="255" description="" link="\Bootstrapper\Illuminate\Html::model()"/>
+          <tag name="see" line="255" description="" link="\Bootstrapper\Collective\Html::model()"/>
         </docblock>
         <argument line="0" by_reference="false">
           <name>$model</name>

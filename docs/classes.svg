@@ -419,7 +419,7 @@
 <!-- \\Illuminate\\Html\\FormBuilder -->
 <g id="node62" class="node"><title>\\Illuminate\\Html\\FormBuilder</title>
 <ellipse fill="none" stroke="black" cx="495.762" cy="-72" rx="116.18" ry="18"/>
-<text text-anchor="middle" x="495.762" y="-68.3" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Html\FormBuilder</text>
+<text text-anchor="middle" x="495.762" y="-68.3" font-family="Times,serif" font-size="14.00" fill="gray">\Collective\Html\FormBuilder</text>
 </g>
 <!-- \\Bootstrapper\\Form&#45;&gt;\\Illuminate\\Html\\FormBuilder -->
 <g id="edge8" class="edge"><title>\\Bootstrapper\\Form&#45;&gt;\\Illuminate\\Html\\FormBuilder</title>
